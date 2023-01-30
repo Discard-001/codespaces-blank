@@ -5,5 +5,6 @@ int main(){
     cout << "hello" << endl;
     for(int i : a) cout << i << " ";
     cout << endl;
+    cout << "你觉得能行不？" << endl;
     return 0;
 }
